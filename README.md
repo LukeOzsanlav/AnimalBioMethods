@@ -11,7 +11,7 @@ _Authors_:
 - Stuart Bearhop
 
 
-## Manuscrip Status
+## Manuscript Status
 A preprint of our MS can be found on research square here: (https://www.researchsquare.com/article/rs-1489736/v1)
 
 *Major revisons* received: 31/05/2022
