@@ -1,5 +1,9 @@
 # Code for 'Wearable reproductive trackers: quantifying a key life history event remotely'
-This repository is to hold the code for a publication that is in review at *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'
+This repository holds the code for a publication that is in review at *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'
+
+*Authors*
+- Luke Ozsanlav-Harris </a>
+
 
 ## Link to preprint
 A preprint of our MS can be found [here](https://www.researchsquare.com/article/rs-1489736/v1) on research square
