@@ -10,7 +10,7 @@ _Authors_:
 - Geoff Hilton <a itemprop="sameAs" content="https://orcid.org/0000-0001-9062-3030" href="https://orcid.org/0000-0001-9062-3030" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" style="width:1em;margin-right:.5em;"/></a>
 - Stuart Bearhop <a itemprop="sameAs" content="https://orcid.org/0000-0002-5864-0129" href="https://orcid.org/0000-0002-5864-0129" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" style="width:1em;margin-right:.5em;"/></a>
 
-<a href="https://orcid.org/0000-0003-3889-6722" target="_blank">Hello, world!</a>
+<a href="https://orcid.org/0000-0003-3889-6722" target="_blank">New Tab</a>
 
 ## Manuscript Status
 A preprint of our MS can be found on research square here: (https://www.researchsquare.com/article/rs-1489736/v1)
