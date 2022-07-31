@@ -18,7 +18,7 @@ A preprint of our MS can be found on research square here: (https://www.research
 
 *Minor revisions* received: 18/07/2022
 
-*Accepted* 29/07/2022
+*Accepted*: 29/07/2022
 
 ## Code description
 - `1) Joint Incubation Classifer.R`: Classify incubations using GPS and accelerometer data. Requires each individual to have both data streams and then a set of known breeders from which training values can be calcualted.
