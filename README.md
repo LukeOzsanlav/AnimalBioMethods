@@ -12,13 +12,14 @@ _Authors_:
 
 
 ## Manuscript Status
-A preprint of our MS can be found on research square here: (https://www.researchsquare.com/article/rs-1489736/v1)
 
 *Major revisions* received: 31/05/2022
 
 *Minor revisions* received: 18/07/2022
 
 *Accepted*: 29/07/2022
+
+Our manuscript can be found in *Animal Biotelemetry* [here](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8)
 
 ## Code description
 - `1) Joint Incubation Classifer.R`: Classify incubations using GPS and accelerometer data. Requires each individual to have both data streams and then a set of known breeders from which training values can be calcualted.
