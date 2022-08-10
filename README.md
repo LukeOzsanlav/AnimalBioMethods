@@ -1,5 +1,5 @@
 # Code for 'Wearable reproductive trackers: quantifying a key life history event remotely'
-This repository holds the code for a publication in *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'. Briefly it uses biologging data, GPS and accelerometer, to classify incubation events in birds using a simple rule based classificatoon system. We also re-sample our biologging data, altering the temporal resolution, to find the optimum settings for biologging tags to balance battery life and accuracte classification of incubation.
+This repository holds the code for a [publication](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8) in *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'. Briefly it uses biologging data, GPS and accelerometer, to classify incubation events in birds using a simple rule based classificatoon system. We also re-sample our biologging data, altering the temporal resolution, to find the optimum settings for biologging tags to balance battery life and accuracte classification of incubation.
 
 _Authors_:
 
