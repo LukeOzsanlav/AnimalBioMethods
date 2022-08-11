@@ -1,7 +1,7 @@
 # Code for 'Wearable reproductive trackers: quantifying a key life history event remotely'
 This repository holds the code for a [publication](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8) published in *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'. Briefly it uses biologging data, GPS and accelerometer, to classify incubation events in birds using a simple rule based classificatoon system. We also re-sample our biologging data, altering the temporal resolution, to find the optimum settings for biologging tags to balance battery life and accuracte classification of incubation.
 
-##_Authors_:
+##_Authors_
 
 - Luke Ozsanlav-Harris <a itemprop="sameAs" content="https://orcid.org/0000-0003-3889-6722" href="https://orcid.org/0000-0003-3889-6722" target="orcid.widget" rel="noopener" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" target="_blank" style="width:1em;margin-right:.5em;"/></a>
 - Larry Griffin
