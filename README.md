@@ -12,7 +12,7 @@ This repository holds the code for a [publication](https://animalbiotelemetry.bi
 
 
 ## Applying this method
-Coming soon...
+If users want to apply this method to their tracking dataset the use the script entitled `Exemplar_Classify_Incubations_GPS+ACC.R`. Unforturnatly the data to run this script was not able to be archived but this script provded a cleaned, well commented version of the method to follow along to. If users want help applying this method then please get in contact (see paper for my e-mail). I should also be able to provide a subset of the tracking data unpon request to make this Examplar script run in full and interpretation of the method easier. 
 
 
 ## Manuscript Status
