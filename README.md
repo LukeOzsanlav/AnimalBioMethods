@@ -26,7 +26,7 @@ If users want to apply this method to their tracking dataset then please use the
 Our manuscript can be found in *Animal Biotelemetry* [here](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8)
 
 ## Code description
-- `Exemplar_Classify_Incubations_GPS+ACC.R`: PLEASE USE, Cleaned and commented version of the classificaiton method
+- `Exemplar_Classify_Incubations_GPS+ACC.R`: PLEASE USE, Cleaned and commented version of the classification method
 - `1) Joint Incubation Classifer.R`: Classify incubations using GPS and accelerometer data. Requires each individual to have both data streams and then a set of known breeders from which training values can be calculated.
 - `2) GPS-only Incubation Classifer`: Classify incubations using GPS data only
 - `3) Acc-only Incubation Classifer`: Classify incubations using accelerometer data only
