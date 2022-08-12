@@ -1,5 +1,5 @@
 # Code for 'Wearable reproductive trackers: quantifying a key life history event remotely'
-This repository holds the code for a [publication](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8) published in *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'. Briefly it uses biologging data, GPS and accelerometer, to classify incubation events in birds using a simple rule based classificatoon system. We also re-sample our biologging data, altering the temporal resolution, to find the optimum settings for biologging tags to balance battery life and accuracte classification of incubation.
+This repository holds the code for a [publication](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8) published in *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'. Briefly it uses biologging data, GPS and accelerometer, to classify incubation events in birds using a simple rule based classification system. We also re-sample our biologging data, altering the temporal resolution, to find the optimum settings for biologging tags to balance battery life and accurate classification of incubation.
 
 ## _Authors_
 
@@ -12,7 +12,7 @@ This repository holds the code for a [publication](https://animalbiotelemetry.bi
 
 
 ## Applying this method
-If users want to apply this method to their tracking dataset the use the script entitled `Exemplar_Classify_Incubations_GPS+ACC.R`. Unforturnatly the data to run this script was not able to be archived but this script provded a cleaned, well commented version of the method to follow along to. If users want help applying this method then please get in contact (see paper for my e-mail). I should also be able to provide a subset of the tracking data unpon request to make this Examplar script run in full and interpretation of the method easier. 
+If users want to apply this method to their tracking dataset then please use the script entitled `Exemplar_Classify_Incubations_GPS+ACC.R`. Unfortunately the data to run this script was not able to be archived but this script provides a cleaned, well commented version of the method to follow along to. If users want help applying this method then please get in contact (see paper for my e-mail). I should also be able to provide a subset of the tracking data upon request to make this Exemplar script run in full and interpretation of the method easier.
 
 
 ## Manuscript Status
@@ -26,10 +26,12 @@ If users want to apply this method to their tracking dataset the use the script 
 Our manuscript can be found in *Animal Biotelemetry* [here](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8)
 
 ## Code description
-- `1) Joint Incubation Classifer.R`: Classify incubations using GPS and accelerometer data. Requires each individual to have both data streams and then a set of known breeders from which training values can be calcualted.
+- `Exemplar_Classify_Incubations_GPS+ACC.R`: PLEASE USE, Cleaned and commented version of the classificaiton method
+- `1) Joint Incubation Classifer.R`: Classify incubations using GPS and accelerometer data. Requires each individual to have both data streams and then a set of known breeders from which training values can be calculated.
 - `2) GPS-only Incubation Classifer`: Classify incubations using GPS data only
 - `3) Acc-only Incubation Classifer`: Classify incubations using accelerometer data only
-- `4) Produce Chapter Plots`: Produce of all of the figures in the manscript
+- `4) Produce Chapter Plots`: Produce of all of the figures in the manuscript
+
 
 ## Data description
 - `Training values.csv`: The training values created for each of the different sampling schedules. 
