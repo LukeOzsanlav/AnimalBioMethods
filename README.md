@@ -25,7 +25,7 @@ If users want to apply this method to their tracking dataset then please use the
 
 *Accepted*: 29/07/2022
 
-Our manuscript can be found in *Animal Biotelemetry* [here](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8)
+Manuscript available in *Animal Biotelemetry* [https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8)
 
 ## Code description
 - `Exemplar_Classify_Incubations_GPS+ACC.R`: PLEASE USE, Cleaned and commented version of the classification method
