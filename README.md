@@ -1,5 +1,6 @@
 # Code for 'Wearable reproductive trackers: quantifying a key life history event remotely'
 [Link to paper ](https://animalbiotelemetry.biomedcentral.com/articles/10.1186/s40317-022-00298-8) 
+[![DOI](https://zenodo.org/badge/548860592.svg)](https://zenodo.org/doi/10.5281/zenodo.10993580)
 
 This repository holds the code for a paper published in *Animal Biotelemetry* entitled; 'Wearable reproductive trackers: quantifying a key life history event remotely'. Briefly it uses biologging data, GPS and accelerometer, to classify incubation events in birds using a simple rule based classification system. We also re-sample our biologging data, altering the temporal resolution, to find the optimum settings for biologging tags to balance battery life and accurate classification of incubation.
 
